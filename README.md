@@ -1,4 +1,6 @@
 📱 Descrição do Projeto
+
+
 Você está desenvolvendo um aplicativo simulador de financiamento, que permite ao usuário calcular:
 
 Valor da parcela mensal;
@@ -130,3 +132,7 @@ bash
 Copiar
 Editar
 flutter run
+
+
+![image](https://github.com/user-attachments/assets/a2dfdc91-b1aa-4dd0-8d4c-8e2cdcdc5610)
+
